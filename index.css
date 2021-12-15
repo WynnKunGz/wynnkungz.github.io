@@ -12,7 +12,7 @@ body {
 }
 
 .card {
-    background: #f8f8f8;
+    background: wheat;
     border-radius: 0 100px 0 100px;
     height: 85vh;
     width: 80vw;
@@ -23,6 +23,21 @@ body {
     justify-content: center;
     align-items: center;
     padding: 1em;
+    overflow: hidden;
+    margin-bottom: 200px;
+}
+
+.card2 {
+    background: #F6D7A7;
+    border-radius: 0 100px 0 100px;
+    height: 85vh;
+    width: 80vw;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1em 1em 1em;
     overflow: hidden;
     margin-bottom: 200px;
 }
@@ -60,8 +75,20 @@ img.birthday2 {
 }
 
 img.birthday3 {
-    max-height: 40vh;
+    max-height: 30vh;
     border-radius: 40vh;
+    padding: 10px;
+}
+
+img.birthday4 {
+    max-height: 40vh;
+    border-radius: 10vh;
+    padding: 10px;
+}
+
+img.birthday5 {
+    max-height: 40vh;
+    border-radius: 10vh;
     padding: 10px;
 }
 
@@ -74,7 +101,7 @@ img.birthday3 {
 }
 
 .space {
-    height: 100px;
+    height: 50px;
 }
 
 .pomeranian {
@@ -100,6 +127,19 @@ img.birthday3 {
     flex-direction: column;
     flex-wrap: wrap;
 }
+
+.ninepic{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.tintinpic{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
 
 .bdaycake {
     max-height: 25vh;
