@@ -197,23 +197,26 @@ img.birthday10 {
     font-style: oblique;
 }
 
-.container{
-display: flex;
-flex-direction: column;
-
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
 }
 
-.item{
-border: solid 1px teal;
-background-color: white;
-font-size: 15px;
-padding: 5 px;
-margin: 5 px;
-border-radius: 2px;
-flex-shrink: 1;
+.item {
+    border: solid 1px teal;
+    background-color: white;
+    font-size: 15px;
+    padding: 5 px;
+    margin: 5 px;
+    border-radius: 2px;
+    flex-shrink: 1;
+    flex-wrap: wrap;
 }
 
-.home{
+
+.home {
     font-size: 30px; 
     background-color: white; 
     border: solid 5px black; 
