@@ -1,0 +1,12 @@
+revamped menu bar
+easter egg
+revamped index.html
+revamped about.html
+
+bug fix
+pbw-0001 born.html doesnt contain any text, has only birthday.svg 
+pbw-0002 link bar still exists in some pages although it is commented out.
+    - nine.html 
+    - pup.html
+pbw-0003 heading doesnt exist.
+pbw-0004 @media only screen stuff causes pictures to be very small.
