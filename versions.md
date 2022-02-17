@@ -23,3 +23,8 @@
 ## v.0.1 pre-2
 - update note.md (update and added information)
 - update versions.md (update and added information)
+
+## v.0.1 rc-1
+- added issue report and feature request template in the github
+- update note.md (update and added information)
+- update versions.md (update and added information)
