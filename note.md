@@ -5,9 +5,9 @@
 ## in development version
 - v.0.1.1
 ## current snapshot/ pre-release/ release candidate
-- v.0.1.1 pre-1
-## in development snapshot/ pre-release/ release candidate
 - v.0.1.1 rc-1
+## in development snapshot/ pre-release/ release candidate
+- none
 
 # features
 
@@ -41,6 +41,7 @@ snapshot (actual snapshot name, and beta name like in wixsite)
 ## wkzf-006 mods/datapacks page
 - planned to be finished : v.0.7 (Profile Update III)
 - status : planned
+- note : put brief information about mods and datapacks, a link to github repo, mod previews, mod showcases.
 
 ## wkzf-007 ccr page (wiki, links to cf)
 - planned to be finished : v.0.8 (CCR Update)
@@ -68,6 +69,13 @@ snapshot (actual snapshot name, and beta name like in wixsite)
 - planned to be finished : v.0.13 (QoL Update)
 - status : planned
 
-## wkzf-013
+## wkzf-013 
 
 # issues
+
+## wkz-001 header and footer dont work as expected
+- affected versions : 22w07a, v.0.1 pre-1, v.0.1 pre-2, v.0.1 rc-1, v.0.1, v.0.1.1 pre-1, v.0.1.1 rc-1
+- status : planned to be fixed
+- fixed version : unknown (planned; v.0.2)
+
+## wkz-002 
