@@ -1,9 +1,9 @@
 # versions
 
 ## current version
-- v.0.1
-## in development version
 - v.0.1.1
+## in development version
+- none
 ## current snapshot/ pre-release/ release candidate
 - v.0.1.1 rc-1
 ## in development snapshot/ pre-release/ release candidate
@@ -74,7 +74,8 @@ snapshot (actual snapshot name, and beta name like in wixsite)
 # issues
 
 ## wkz-001 header and footer dont work as expected
-- affected versions : 22w07a, v.0.1 pre-1, v.0.1 pre-2, v.0.1 rc-1, v.0.1, v.0.1.1 pre-1, v.0.1.1 rc-1
+- affected versions : 22w07a, v.0.1 pre-1, v.0.1 pre-2, v.0.1 rc-1, v.0.1, v.0.1.1 pre-1, 
+v.0.1.1 rc-1, v.0.1.1
 - status : planned to be fixed
 - fixed version : unknown (planned; v.0.2)
 
