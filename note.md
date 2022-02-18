@@ -5,18 +5,18 @@
 ## in development version
 - v.0.1.1
 ## current snapshot/ pre-release/ release candidate
-- v.0.1 rc-1
+- v.0.1.1 pre-1
 ## in development snapshot/ pre-release/ release candidate
-- none
+- v.0.1.1 rc-1
 
 # features
 
 ## wkzf-001 header and footer and navigation bar
-- planned to be finished : v.0.1.1
+- planned to be finished : v.0.2 (Header, Footer, Navigation Bar Update)
 - status : planned
 
 ## wkzf-002 home page (a bit of introduction to myself, to stuff i make)
-- planned to be finished : v.0.1.2
+- planned to be finished : v.0.3 (Home Update)
 - status : planned
 - note : add a bit of info from stuff i make, the ui should be sth like this.
 https://imgur.com/a/5GKTg66 also put pictures and "more" button linking to certain pages.
@@ -25,45 +25,49 @@ development live stream, etc. also show website's current version/ in developmen
 snapshot (actual snapshot name, and beta name like in wixsite) 
 
 ## wkzf-003 updates page (like in my wixsite)
-- planned to be finished : v.0.1.3
+- planned to be finished : v.0.4 (Website Log Update)
 - status : planned
 
 ## wkzf-004 about page 
-- planned to be finished : v.0.1.4
+- planned to be finished : v.0.5 (Profile Update I)
 - status : planned
 - note : basic information, contact information -> author, copyright, etc.
 
 ## wkzf-005 youtube videos/ live streams page
-- planned to be finished : v.0.1.5
+- planned to be finished : v.0.6 (Profile Update II)
 - status : planned
 - note : tutorials ep.1, 2, 3, etc. a bit of bedwars videos, a bit of mod development live stream, etc.
 
 ## wkzf-006 mods/datapacks page
-- planned to be finished : v.0.1.6
+- planned to be finished : v.0.7 (Profile Update III)
 - status : planned
 
 ## wkzf-007 ccr page (wiki, links to cf)
-- planned to be finished : v.0.1.7
+- planned to be finished : v.0.8 (CCR Update)
 - status : planned
 - note : all recipes, features in the datapack
 
 ## wkzf-008 wkom page (changelog and mod showcases/previews, links to cf, and to my yt videos (review)) 
-- planned to be finished : v.0.1.8
+- planned to be finished : v.0.9 (WKOM Update)
 - status : planned
 - note : changelog -> same format as home page,  with read more button, and mod showcases/previews
 
 ## wkzf-009 themes (light/dark)
-- planned to be finished : v.0.1.9
+- planned to be finished : v.0.10 (Eye Comfort Update)
 - status : planned
 
 ## wkzf-010 languages (only en/th for now)
-- planned to be finished : v.0.1.10
+- planned to be finished : v.0.11 (International Update)
 - status : planned
 
 ## wkzf-011 fonts, colors, icons, etc.
-- planned to be finished : v.0.1.11
+- planned to be finished : v.0.12 (Decorative Update)
 - status : planned
 
-## wkzf-012 
+## wkzf-012 when clicking at the logo or website name in the nav bar, it should go to the home page
+- planned to be finished : v.0.13 (QoL Update)
+- status : planned
+
+## wkzf-013
 
 # issues

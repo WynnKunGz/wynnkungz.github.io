@@ -33,3 +33,7 @@
 - update note.md (update and added information)
 - update versions.md (update and added information)
 - released v.0.1
+
+## v.0.1.1 pre-1
+- update note.md (update and added information)
+- update versions.md (update and added information)
