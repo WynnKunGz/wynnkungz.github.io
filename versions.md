@@ -56,3 +56,8 @@
 - update versions.md (update and added information)
 - update index.html (update time, and added class 'indev' for the wip mark)
 - update index.css (update class 'address', and added class 'indev')
+
+## v.0.1.2
+- update note.md (update and added information)
+- update versions.md (update and added information)
+- released v.0.1.2
