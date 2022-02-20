@@ -5,9 +5,9 @@
 ## in development version
 - v.0.1.2
 ## current snapshot/ pre-release/ release candidate
-- v.0.1.2 pre-1
-## in development snapshot/ pre-release/ release candidate
 - v.0.1.2 rc-1
+## in development snapshot/ pre-release/ release candidate
+- none
 
 # features
 
@@ -79,14 +79,14 @@ snapshot (actual snapshot name, and beta name like in wixsite)
 - note : idea suggestions page, with a google form to submit ideas (like tugmos), 
 and a link to trello boards for people to check if their ideas are already planned or not.
 
-## wkzf-015
+## wkzf-015 
 
 # issues
 
 ## wkz-001 header and footer dont work as expected
 - affected versions : 22w07a, v.0.1 pre-1, v.0.1 pre-2, v.0.1 rc-1, v.0.1, v.0.1.1 pre-1, 
-v.0.1.1 rc-1, v.0.1.1
+v.0.1.1 rc-1, v.0.1.1, v.0.1.2 pre-1, v.0.1.2 rc-1
 - status : planned to be fixed
-- fixed version : unknown (planned; v.0.2)
+- fixed version : unknown
 
 ## wkz-002 
