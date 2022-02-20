@@ -3,11 +3,11 @@
 ## current version
 - v.0.1.1
 ## in development version
-- none
+- v.0.1.2
 ## current snapshot/ pre-release/ release candidate
-- v.0.1.1 rc-1
+- v.0.1.2 pre-1
 ## in development snapshot/ pre-release/ release candidate
-- none
+- v.0.1.2 rc-1
 
 # features
 
@@ -69,7 +69,17 @@ snapshot (actual snapshot name, and beta name like in wixsite)
 - planned to be finished : v.0.13 (QoL Update)
 - status : planned
 
-## wkzf-013 
+## wkzf-013 contact page
+- planned to be finished : v.0.14 (Profile Update IV)
+- status : planned
+
+## wkzf-014 idea suggestions page
+- planned to be finished : v.0.15 (Idea Suggestions Update)
+- status : planned
+- note : idea suggestions page, with a google form to submit ideas (like tugmos), 
+and a link to trello boards for people to check if their ideas are already planned or not.
+
+## wkzf-015
 
 # issues
 
