@@ -1,4 +1,4 @@
-address {
+.address {
    display: block;
    font-style: italic;
    font-size: 12px;
@@ -10,4 +10,10 @@ address {
    font-style: italic;
    position: absolute;
    font-family: 'IBM Plex Sans Thai', sans-seif;
+}
+
+.footer {
+   /* position: absolute; */
+   font-family: 'IBM Plex Sans Thai', sans-serif;
+   font-size: 12px;
 }
