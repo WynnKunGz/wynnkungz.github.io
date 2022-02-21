@@ -1,9 +1,9 @@
 # versions
 
 ## current version
-- v.0.1.3
-## in development version
 - v.0.1.4
+## in development version
+- none
 ## current snapshot/ pre-release/ release candidate
 - v.0.1.4 rc-1
 ## in development snapshot/ pre-release/ release candidate
@@ -20,9 +20,9 @@
 - status : planned
 - note : add a bit of info from stuff i make, the ui should be sth like this.
 https://imgur.com/a/5GKTg66 also put pictures and "more" button linking to certain pages.
-also has a part called my yt videos, which will preview some of my videos such as tutorials, bedwars, mod
-development live stream, etc. also show website's current version/ in development version and current 
-snapshot (actual snapshot name, and beta name like in wixsite) 
+also has a part called my yt videos, which will preview some of my videos such as tutorials, 
+bedwars, mod development live stream, etc. also show website's current version/ in development 
+version and current snapshot (actual snapshot name, and beta name like in wixsite) 
 
 ## wkzf-003 updates page (like in my wixsite)
 - planned to be finished : v.0.4 (Website Log Update)
@@ -36,12 +36,14 @@ snapshot (actual snapshot name, and beta name like in wixsite)
 ## wkzf-005 youtube videos/ live streams page
 - planned to be finished : v.0.6 (Profile Update II)
 - status : planned
-- note : tutorials ep.1, 2, 3, etc. a bit of bedwars videos, a bit of mod development live stream, etc.
+- note : tutorials ep.1, 2, 3, etc. a bit of bedwars videos, a bit of mod development live stream, 
+etc.
 
 ## wkzf-006 mods/datapacks page
 - planned to be finished : v.0.7 (Profile Update III)
 - status : planned
-- note : put brief information about mods and datapacks, a link to github repo, mod previews, mod showcases.
+- note : put brief information about mods and datapacks, a link to github repo, mod previews, 
+mod showcases.
 
 ## wkzf-007 ccr page (wiki, links to cf)
 - planned to be finished : v.0.8 (CCR Update)
