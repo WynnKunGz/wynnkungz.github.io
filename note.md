@@ -1,13 +1,13 @@
 # versions
 
 ## current version
-- v.0.1.2
-## in development version
 - v.0.1.3
+## in development version
+- none
 ## current snapshot/ pre-release/ release candidate
-- v.0.1.3 rc-1
-## in development snapshot/ pre-release/ release candidate
 - v.0.1.3 rc-2
+## in development snapshot/ pre-release/ release candidate
+- none
 
 # features
 
