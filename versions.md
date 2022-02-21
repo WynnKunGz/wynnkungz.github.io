@@ -77,3 +77,7 @@
 - update note.md (update and added information)
 - update versions.md (update and added information)
 - released v.0.1.3
+
+## v.0.1.4 rc-1
+- update note.md (update and added information)
+- update versions.md (update and added information)

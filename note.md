@@ -3,9 +3,9 @@
 ## current version
 - v.0.1.3
 ## in development version
-- none
+- v.0.1.4
 ## current snapshot/ pre-release/ release candidate
-- v.0.1.3 rc-2
+- v.0.1.4 rc-1
 ## in development snapshot/ pre-release/ release candidate
 - none
 
@@ -97,6 +97,7 @@ privacy policies, etc.
 
 ## wkz-001 header and footer dont work as expected
 - affected versions : 22w07a, v.0.1 pre-1, v.0.1 pre-2, v.0.1 rc-1, v.0.1, v.0.1.1 pre-1, 
-v.0.1.1 rc-1, v.0.1.1, v.0.1.2 pre-1, v.0.1.2 rc-1
+v.0.1.1 rc-1, v.0.1.1, v.0.1.2 pre-1, v.0.1.2 rc-1, v.0.1.2, v.0.1.3 rc-1, v.0.1.3 rc-2, v.0.1.3, 
+v.0.1.4 rc-1
 - status : planned to be fixed
 - fixed version : unknown
