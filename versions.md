@@ -65,6 +65,10 @@
 ## v.0.1.3 rc-1
 - update note.md (update and added information)
 - update versions.md (update and added information)
-- update index.html (update time, added class 'footer' for the div, and added info to address tag (link to my social medias, carrd 
-website))
+- update index.html (update time, added class 'footer' for the div, and added info to address tag 
+(link to my social medias, carrd website))
 - update index.css (update class 'address', and added class 'footer')
+
+## v.0.1.3 rc-2
+- update note.md (update and added information)
+- update versions.md (update and added information)

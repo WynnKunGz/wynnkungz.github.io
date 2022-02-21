@@ -7,7 +7,7 @@
 ## current snapshot/ pre-release/ release candidate
 - v.0.1.3 rc-1
 ## in development snapshot/ pre-release/ release candidate
-- none
+- v.0.1.3 rc-2
 
 # features
 
@@ -79,7 +79,19 @@ snapshot (actual snapshot name, and beta name like in wixsite)
 - note : idea suggestions page, with a google form to submit ideas (like tugmos), 
 and a link to trello boards for people to check if their ideas are already planned or not.
 
-## wkzf-015 
+## wkzf-015 donations page
+- planned to be finished : v.0.16 (Donations Update)
+- status : planned
+
+## wkzf-016 log in/ sign up (website account)
+- planned to be finished : v.0.17 (Account Update)
+- status : planned
+- note : website account -> sign up, log in, log out, etc. (used for blogs, etc.)
+privacy policies, etc.
+
+## wkzf-017 blog page
+- planned to be finished : v.0.18 (Blog Update)
+- status : planned
 
 # issues
 
@@ -88,5 +100,3 @@ and a link to trello boards for people to check if their ideas are already plann
 v.0.1.1 rc-1, v.0.1.1, v.0.1.2 pre-1, v.0.1.2 rc-1
 - status : planned to be fixed
 - fixed version : unknown
-
-## wkz-002 
